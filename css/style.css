@@ -1,0 +1,46 @@
+h1{
+    color: blue;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+ 
+}
+h3{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+.sss{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+    border: 5px solid #bb1111;
+    background-color: rgb(255, 0, 157);
+    
+}
+#par{
+    
+  margin: 10px;
+  background-color: #333333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+#parr{
+    background-color: aqua;
+    color: brown;
+    text-align: center;
+   
+}
+.sps{
+    color: red;
+    padding: 5px;
+    margin-bottom: 8px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+body{
+    background-color: antiquewhite;
+
+}
